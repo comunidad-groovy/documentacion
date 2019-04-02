@@ -11,4 +11,4 @@ deberán seguir los siguientes pasos para poder aportar una mejora:
 4. [ ] Crea el pull request (PR) y describe los puntos que aparecenen la plantilla de Pull Request
 5. [ ] Algún administrador/a de la comunidad cogerá la PR y la revisará.
 6. [ ] Da solución o response a los comentarios de la revisión.
-7. [ ] El compañero/a mergeará los cambios los cambios aceptados
+7. [ ] El compañero/a mergeará los cambios aceptados
