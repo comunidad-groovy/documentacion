@@ -1,0 +1,14 @@
+= Mejora Contínua
+
+Cualquiera puede participar y ayudar en la mejora contínua de esta organización.
+
+Para ello acordamos utilizar el sistema de Pull Request (PR) como mecanismo para esta participación por lo que se 
+deberán seguir los siguientes pasos para poder aportar una mejora:
+
+1. [ ] Crea una `issue` para los cambios en caso de que no exista. [Issues](../../issues)
+2. [ ] Asegurate de crear una rama cuyo nombre deberá ser el código de issue.
+3. [ ] Realiza los cambios pertinentes en la rama creada
+4. [ ] Crea el pull request (PR) y describe los puntos que aparecenen la plantilla de Pull Request
+5. [ ] Algún administrador/a de la comunidad cogerá la PR y la revisará.
+6. [ ] Da solución o response a los comentarios de la revisión.
+7. [ ] El compañero/a mergeará los cambios los cambios aceptados
